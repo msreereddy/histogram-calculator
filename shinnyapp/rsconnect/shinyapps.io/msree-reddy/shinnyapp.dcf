@@ -1,0 +1,12 @@
+name: shinnyapp
+title: shinnyapp
+username:
+account: msree-reddy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3107457
+bundleId: 3788896
+url: https://msree-reddy.shinyapps.io/shinnyapp/
+when: 1603823657.93974
+asMultiple: FALSE
+asStatic: FALSE
