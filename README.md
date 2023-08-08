@@ -1,3 +1,3 @@
 # histogram-calculator
-Distribution types are normal and exponential 
+distribution types are Normal and Exponential 
 https://msree-reddy.shinyapps.io/shinnyapp/
